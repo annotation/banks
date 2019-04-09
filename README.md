@@ -1,6 +1,5 @@
 <div>
-<img src="programs/images/logo.png" align="left" width="300"/>
-<img src="programs/images/ninologo.png" align="right" width="200"/>
+<img src="programs/images/phblogo.png" align="right" width="200"/>
 <img src="programs/images/tf.png" align="right" width="200"/>
 <img src="programs/images/dans.png" align="right" width="100"/>
 </div>
@@ -9,7 +8,6 @@
 
 [![DOI](https://zenodo.org/badge/180373562.svg)](https://zenodo.org/badge/latestdoi/180373562)
 
-Proto-cuneiform corpora in Text-Fabric
 This is a
 [Text-Fabric](https://githubv.com/annotation/text-fabric)
 example app for working with
