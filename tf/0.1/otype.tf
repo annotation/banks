@@ -1,12 +1,13 @@
 @node
 @compiler=Dirk Roorda
 @name=Culture quotes from Iain Banks
+@purpose=exposition
 @source=Good Reads
 @url=https://www.goodreads.com/work/quotes/14366-consider-phlebas
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2019-04-09T13:57:45Z
+@dateWritten=2019-04-09T14:09:56Z
 
 1-99	word
 100	book
