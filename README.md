@@ -7,7 +7,7 @@
 
 # Iain M. Banks: Consider Phlebas
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.167956619.svg)](https://doi.org/10.5281/zenodo.2579207)
+[![DOI](https://zenodo.org/badge/180373562.svg)](https://zenodo.org/badge/latestdoi/180373562)
 
 Proto-cuneiform corpora in Text-Fabric
 This is a
