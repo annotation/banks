@@ -6,7 +6,7 @@
 
 # Iain M. Banks: Consider Phlebas
 
-[![sha](sha.png) Software Heritage Archive](https://archive.softwareheritage.org/browse/origin/https://github.com/annotation/banks/)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/annotation/banks/)](https://archive.softwareheritage.org/browse/origin/https://github.com/annotation/banks/)
 
 [![DOI](https://zenodo.org/badge/180373562.svg)](https://zenodo.org/badge/latestdoi/180373562)
 
