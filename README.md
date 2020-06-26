@@ -11,7 +11,7 @@
 [![DOI](https://zenodo.org/badge/180373562.svg)](https://zenodo.org/badge/latestdoi/180373562)
 
 This is a
-[Text-Fabric](https://githubv.com/annotation/text-fabric)
+[Text-Fabric](https://github.com/annotation/text-fabric)
 example app for working with
 a mini corpus consisting of just 99 words from the book
 [Consider Phlebas](https://en.wikipedia.org/wiki/Consider_Phlebas)
@@ -45,5 +45,4 @@ Authors
 
 This repo is by
 
-*   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
-    [DANS](https://www.dans.knaw.nl)
+*   Dirk Roorda @ [annotation](https://www.annotation.nl)
