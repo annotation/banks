@@ -45,4 +45,4 @@ Authors
 
 This repo is by
 
-*   Dirk Roorda @ [annotation](https://www.annotation.nl)
+*   [Dirk Roorda](https://pure.knaw.nl/portal/en/persons/dirk-roorda)
