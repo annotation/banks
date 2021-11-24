@@ -7,8 +7,8 @@
 # Iain M. Banks: Consider Phlebas
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/annotation/banks/)](https://archive.softwareheritage.org/browse/origin/https://github.com/annotation/banks/)
-
 [![DOI](https://zenodo.org/badge/180373562.svg)](https://zenodo.org/badge/latestdoi/180373562)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 This is a
 [Text-Fabric](https://github.com/annotation/text-fabric)
@@ -40,9 +40,7 @@ Or fire up a terminal and say (provided you have text-fabric installed):
 text-fabric banks
 ```
 
-Authors
-=======
+# Author
 
-This repo is by
+[Dirk Roorda](https://github.com/dirkroorda)
 
-*   [Dirk Roorda](https://pure.knaw.nl/portal/en/persons/dirk-roorda)
