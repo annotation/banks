@@ -1,0 +1,28 @@
+apiVersion: 3
+dataDisplay:
+  textFormats:
+    layout-orig-full: 
+      method: layoutRich
+      style:  normal
+docs:
+  docBase: '{docRoot}/{org}/{repo}/blob/master/programs'
+  docExt: .ipynb
+  docPage: convert
+  docRoot: '{urlNb}'
+  featureBase: '{docBase}'
+  featurePage: convert
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: Two quotes from Consider Phlebas by Iain M. Banks
+  doi: 10.5281/zenodo.2630416
+  version: '0.2'
+typeDisplay:
+  book:
+    featuresBare: author
+  line:
+    features: terminator
+    label: '{number}'
+    template: '{number}'
+    verselike: true
+  word:
+    features: gap

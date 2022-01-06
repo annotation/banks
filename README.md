@@ -32,12 +32,12 @@ that generated the Text-Fabric data set for these quotes.
 # Getting started
 
 Start with the
-[tutorial](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/banks/use.ipynb).
+[tutorial](https://nbviewer.jupyter.org/github/annotation/banks/blob/master/tutorial/use.ipynb).
 
 Or fire up a terminal and say (provided you have text-fabric installed):
 
 ```
-text-fabric banks
+text-fabric annotation/banks
 ```
 
 # Author
