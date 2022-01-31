@@ -47,14 +47,10 @@ If you do not want/need to upgrade, leave out the checkout specifiers.
 
 ```python
 A = use(
-    "banks:clone",
-    checkout="clone",
-    mod="annotation/banks/sim/tf:clone",
+    "annotation/banks:hot",
+    mod="annotation/banks/sim/tf",
     hoist=globals(),
 )
-# A = use('banks:hot', checkout="hot", mod='annotation/banks/sim/tf:hot', hoist=globals())
-# A = use('banks:latest', checkout="latest", mod='annotation/banks/sim/tf:latest', hoist=globals())
-# A = use('banks', mod='annotation/banks/sim/tf', hoist=globals())
 ```
 
 # Use the similarity edge feature
