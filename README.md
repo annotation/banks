@@ -17,7 +17,7 @@ a mini corpus consisting of just 99 words from the book
 [Consider Phlebas](https://en.wikipedia.org/wiki/Consider_Phlebas)
 by the late
 [Iain M. Banks](https://en.wikipedia.org/wiki/Iain_Banks),
-a Scottish writer of phantasy and SF novels.
+a Scottish writer of fantasy and SF novels.
 
 This corpus serves several functions
 
